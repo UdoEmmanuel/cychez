@@ -35,7 +35,7 @@
 
                     <!-- Slider layer Start -->
                     <div class="home-1-slider-style-1__layer" style="color: #000;">
-                        SERUM&VITAMIN
+                        SEUM&VITAMIN
                     </div>
                     <!-- Slider layer End -->
                 </div>
